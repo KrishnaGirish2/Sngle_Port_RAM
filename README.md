@@ -1,4 +1,4 @@
-# Single Port RAM Verification using SystemVerilog
+# Single Port RAM Verification
 
 ## Overview
 
